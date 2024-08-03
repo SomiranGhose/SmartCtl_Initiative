@@ -1,0 +1,2 @@
+/dev/sda -d nvme # /dev/sda, NVMe device
+/dev/sdb -d nvme # /dev/sdb, NVMe device
