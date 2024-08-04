@@ -26,6 +26,7 @@ def main():
     while True:
         smartcontrol()
         smarttestschema()
+        print("Working logic")
         
         
         
